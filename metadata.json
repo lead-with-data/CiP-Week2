@@ -1,0 +1,6 @@
+{
+  "name": "Karel 3D: Spread Beepers",
+  "description": "A 3D physical demonstration environment to teach Karel the Robot concepts like picking up and spreading stacks of beepers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
